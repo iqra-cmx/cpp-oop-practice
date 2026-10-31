@@ -4,7 +4,7 @@ Practice programs demonstrating inheritance and OOP concepts in C++.
 
 ## Programs
 
-### 1. Hostel and mess Management (`hostel_management.cpp`)
+### 1. Hostel and Mess Management (`Hostel_management_system.cpp`)
 
 Demonstrates **multilevel inheritance**:
 
